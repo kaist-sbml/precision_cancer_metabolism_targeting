@@ -1,7 +1,6 @@
 import cobra.io as io
 from gurobipy import *
 
-
 class Simulator(object):
     def __init__(self):
         """

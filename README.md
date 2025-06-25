@@ -15,7 +15,7 @@ conda env create -f environment.yaml
 
 ---
 ### Implementation
-1. Create files for flux values and context-specific GEMs reaction weights. 
+1. Create files for flux values, context-specific GEMs and reaction weights. 
 Every input file must follow the required naming convention: <sample_name>_flux.csv, <sample_name>_GEM.xml, and <sample_name>_reaction_weight.csv.
 
 (See the example in example_input directory)
